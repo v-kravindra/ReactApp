@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
@@ -33,11 +32,10 @@ function App() {
   )
 }
 
-export default App
-=======
+export default App;
 // App.jsx
 
-import React, { useState } from 'react';
+/*import React, { useState } from 'react';
 
 function App() {
   // State variable to hold the message
@@ -56,5 +54,5 @@ function App() {
   );
 }
 
-export default App;
->>>>>>> 2f50225505507ae797ef80c564e4e385a563d22b
+export default App;*/
+
